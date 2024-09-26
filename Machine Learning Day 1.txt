@@ -1,0 +1,61 @@
+Machine Learning Day 1
+
+Supervised Learning Algorithm
+Social Media
+Product Recommedations
+Image Recognition
+Sentiment Analysis
+Automatic Employee Access System or control
+Marine Wildlife preservation
+Regulating HealthCare Efficiency and Medical Services
+Predict potential heart failure
+Banking domain
+Language translation
+
+Unsupervised Learning Algorithm
+Recommendation System
+Products segmentation
+Dataset labelling
+Customer segmentation
+Similarity Detection
+
+Reinforcement Learning
+Finance 
+Healthcare
+Engineering
+Gaming
+
+Machine Learning Day 2
+
+Nominal Data --> Used to label variables without providing any measurable value
+Ordinal Data --> Categorical data with a set order or scale on it.
+Discrete Data --> Data with final set of values which can be categorized
+Continuous Data --> Can take any number from a range
+y=mx+c ==> m = slope of line, c= y-intercept i.e. value of y when x=0
+
+Matrix Operations
+Addition,Substraction,Multiplication,Transponse,Determinant,Inverse
+
+Eigen Vector -> The vectors that don't change their span while transformation.
+
+Eigen Values -> The scalar values that are associated to the vectors
+
+Population --> All objects whose properties are being observed
+Parameter --> A metric that is used to represent a population characteristic
+
+28/6/2024
+
+Linear Regression
+Phone's Battery life and price
+Independent --> price
+Dependent --> Battery life
+Study Hours and Marks
+Independent --> Marks
+Dependent --> Study Hours
+Weight and strength
+Independent --> strength
+Dependent --> weight
+
+1.Before using linear regression between two variables we are supposed to check correlation between them
+2.Linear Regression can only be applied on continuous numerical datatype.
+Simple Linear Regression is non causal 
